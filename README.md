@@ -6,6 +6,8 @@ Data analysis project exploring demographic patterns in Barcelona using public b
 
 This project analyzes the relationship between births and deaths across different areas of Barcelona to identify demographic trends and patterns.
 
+The analysis is based on publicly available data from Open Data BCN and focuses on the year 2024.
+
 ## Key Findings
 
 - Most areas show a negative demographic balance (deaths > births)
@@ -14,4 +16,5 @@ This project analyzes the relationship between births and deaths across differen
 
 ## Author
 
-Pol Serra Pozas
+Pol Serra Pozas  
+Applied Statistics student with a background in Pharmacy and Nutrition.
